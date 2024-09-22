@@ -51,10 +51,17 @@ Durante o bootcamp, são oferecidos certificados para cada etapa concluída, abo
 ├── docs/                   # Documentação do bootcamp
 ├── modules/                # Modulos de atividades
 └── README.md               # Descrição do repositório
+```
 
 ## 🚀 Como Usar
 
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/seu-usuario/engenharia-dados-python-DIO.git
+```
+2. **Instale as dependências para projetos Python (preferencialmente em um ambiente virtual):**
+```bash
+pip install -r requirements.txt
+```
+3. **Abra e explore os relatórios de Power BI ou execute os scripts e notebooks em Python.**
 
