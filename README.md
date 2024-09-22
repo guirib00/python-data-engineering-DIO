@@ -51,3 +51,10 @@ Durante o bootcamp, são oferecidos certificados para cada etapa concluída, abo
 ├── docs/                   # Documentação do bootcamp
 ├── modules/                # Modulos de atividades
 └── README.md               # Descrição do repositório
+
+## 🚀 Como Usar
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/seu-usuario/engenharia-dados-python-DIO.git
+
