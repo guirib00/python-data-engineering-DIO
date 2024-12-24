@@ -1,3 +1,4 @@
+from password_generator_guirib00 import generator
 from abc import ABC, abstractmethod
 class Forma(ABC): #classe abstrata
     @abstractmethod
@@ -56,3 +57,12 @@ veiculos = [Carro(), Moto()]
 for veiculo in veiculos:
     print(veiculo.acelerar())
     print(veiculo.frear())
+
+
+
+
+password = generator.generate_simple_password(10)
+print(password)
+
+password_complex = generator.generate_complex_password(16)
+print(password_complex)
